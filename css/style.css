@@ -90,12 +90,12 @@ section {
 }
 
 .home-img img {
-  width: 30vw;
+  width: 25vw;
   background-repeat: no-repeat;
   background: rgba(0, 0, 0, 0.2);
   animation: floatImage 4s ease-in-out infinite;
   border-radius: 2rem;
-  box-shadow: 5px 5px 10px gray;
+  margin-left: 2rem;
 }
 
 @keyframes floatImage {
@@ -183,12 +183,11 @@ span {
 }
 
 .about-img img {
-  width: 30vw;
+  width: 25vw;
   background-repeat: no-repeat;
-  background: rgba(0, 0, 0, 0.2);
   animation: floatImage 4s ease-in-out infinite;
   border-radius: 2rem;
-  box-shadow: 5px 5px 10px gray;
+  margin-right: 2rem;
 }
 
 .heading {
